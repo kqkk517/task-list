@@ -86,7 +86,7 @@ function addSample() {
         month: '例)2022-07',
         status: '済',
         title: '不用品処分',
-        detail: '読み終えた本の処分。メルカリに出品。売値5,000円。'
+        detail: '読み終えた本の処分。メルカリに出品。販売利益5,000円。'
       }
       
       addTask(task);
