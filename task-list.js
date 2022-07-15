@@ -83,10 +83,10 @@ function displayTaskList() {
 // サンプルデータを追加する関数
 function addSample() {
     const task = {
-        month: '例)2021-07',
+        month: '例)2022-07',
         status: '済',
-        title: 'A社経営統合プロジェクト',
-        detail: '経営統合に伴う業務プロセス統合プロジェクト。\nプロジェクトリーダー（メンバー4人）として担当。\nQDC目標いずれも達成。CS評価で5をいただいた。'
+        title: '不用品処分',
+        detail: '読み終えた本の処分。メルカリに出品。売値5,000円。'
       }
       
       addTask(task);
